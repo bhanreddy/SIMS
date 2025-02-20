@@ -15,28 +15,4 @@ Frontend: HTML, CSS, JavaScript
 Backend: (Insert technology here, e.g., Node.js, Python Django)
 Database: (Insert database technology here, e.g., MySQL, MongoDB)
 Version Control: Git, GitHub
-Installation
-Clone the repository:
 
-
-
-For frontend: Ensure you have a local server like VS Code Live Server.
-For backend (if applicable): Install necessary dependencies (e.g., npm install for Node.js).
-Run the application:
-
-Frontend: Open index.html in a browser.
-Backend (if applicable): Start the server with appropriate commands.
-Usage
-Administrator: Add and manage student, staff, and course data.
-Teachers: Enter attendance, grades, and manage courses.
-Staff: View and update school events.
-Contributing
-Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Open a pull request.
-License
-This project is licensed under the MIT License.
-
-Feel free to modify any details based on your app’s specific features or structure!
