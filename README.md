@@ -18,11 +18,7 @@ Version Control: Git, GitHub
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/bhanreddy/SIMS.git
-Install dependencies:
+
 
 For frontend: Ensure you have a local server like VS Code Live Server.
 For backend (if applicable): Install necessary dependencies (e.g., npm install for Node.js).
