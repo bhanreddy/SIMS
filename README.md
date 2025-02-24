@@ -10,7 +10,7 @@ Overview
 The School Information Management System (IMS) is an application designed to streamline the management of student and staff information, school events, and other administrative tasks. It provides an easy-to-use interface for administrators, teachers, and staff to manage data efficiently.
 
 
-Features
+Features:
 Student Management: Add, edit, and delete student records.
 Staff Management: Manage teacher and staff information.
 Course Management: Assign and manage courses, subjects, and schedules.
